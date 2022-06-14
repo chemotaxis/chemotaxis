@@ -17,3 +17,4 @@ Currently deployed projects:
 - [Fundraising tally display](https://faith-promise-cff8c.web.app/)
 - [Speed visualization](https://chemotaxis.github.io/speed-viz/)
 - [String Chopper](https://string-chop.deta.dev/)
+- [Barcode generator](https://barcode.ethane.page/)
